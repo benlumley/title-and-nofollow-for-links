@@ -27,13 +27,13 @@ function tnl_add_nofollow() {
         'save' => __('Add Link'),
         'noTitle' => __('(no title)'),
         'noMatchesFound' => __('No results found.'),
-        'noFollow' => __(' Add <code>rel="nofollow"</code> to link', 'title-nofollow-links')
+        'noFollow' => __(' Add <code>rel="nofollow"</code> to link', 'title-and-nofollow-for-links')
     ));
 }
 add_action('wp_enqueue_editor', 'tnl_add_nofollow', 21);
 
 function title_nofollow_links_setup(){
-    load_plugin_textdomain('title-nofollow-links', null, dirname( plugin_basename( __FILE__ ) ) . '/lang' );
+    load_plugin_textdomain('title-and-nofollow-for-links', null, dirname( plugin_basename( __FILE__ ) ) . '/lang' );
 }
 add_action('init', 'title_nofollow_links_setup');
 

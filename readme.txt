@@ -12,9 +12,9 @@ The plugin adds a title and a rel="nofollow" checkbox to the insert link popup b
 
 == Description ==
 
-The plugin restores the `Title` field (that was removed from WordPress 4.2) in the insert link popup box and adds a new `Add <code>rel="nofollow"</code> to link` checkbox to it. 
+The plugin restores the `Title` field (that was removed from WordPress 4.2) in the insert link popup box and adds a new `Add rel="nofollow" to link` checkbox to it. 
 
-The plugin is based on two other plugins, [Restore Link Title Field](https://wordpress.org/plugins/restore-link-title-field/) and [WPRes - nofollow link] (https://wordpress.org/plugins/wpres-nofollow-link/), so kudos to their authors!
+The plugin is based on two other plugins, [Restore Link Title Field](https://wordpress.org/plugins/restore-link-title-field/) and [WPRes - nofollow link](https://wordpress.org/plugins/wpres-nofollow-link/), so kudos to their authors!
 
 If you liked my plugin, please `rate` it.
  

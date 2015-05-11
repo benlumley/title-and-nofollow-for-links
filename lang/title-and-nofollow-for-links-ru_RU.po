@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Title and Nofollow For Links ru_RU\n"
 "POT-Creation-Date: 2015-05-10 18:41+0300\n"
-"PO-Revision-Date: 2015-05-10 19:00+0300\n"
+"PO-Revision-Date: 2015-05-11 23:18+0300\n"
 "Last-Translator: Flector <rlector@gmail.com>\n"
 "Language-Team: Flector <rlector@gmail.com>\n"
 "Language: ru\n"
@@ -20,6 +20,6 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.js\n"
 
-#: title-nofollow-links.php:26
+#: title-and-nofollow-for-links.php:26
 msgid " Add <code>rel=\"nofollow\"</code> to link"
 msgstr " Добавить атрибут <code>rel=\"nofollow\"</code>"

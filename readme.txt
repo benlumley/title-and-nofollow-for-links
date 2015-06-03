@@ -1,10 +1,10 @@
 === Title and Nofollow For Links ===
-Contributors: Flector, Otto42, SergeyBiryukov
+Contributors: Flector
 Donate link: http://goo.gl/CcxWYg
 Tags: checkbox, insert, link, links, meta, nofollow, popup, rel nofollow, seo, editor, link, TinyMCE, title
 Requires at least: 4.2
 Tested up to: 4.2.2
-Stable tag: 1.00
+Stable tag: trunk
 License: GPLv2
 License URI: http://www.opensource.org/licenses/GPL-2.0
 

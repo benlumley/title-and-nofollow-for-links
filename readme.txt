@@ -40,5 +40,8 @@ Yes, please send your localization files (.mo и .po) to rlector@gmail.com.
 
 == Changelog ==
 
+= 1.01 =
+* fixed js-bug in Text editor.
+
 = 1.00 =
 * first version

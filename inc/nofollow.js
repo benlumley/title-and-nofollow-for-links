@@ -26,7 +26,7 @@ var wpLink;
             //change by "Title and Nofollow for Links" begin
             $("#wp-link .link-target").append('<br><label style="padding-left: 4px;"><span>&nbsp;</span><input type="checkbox" id="tanfl-add-nofollow">' + wpLinkL10n.noFollow + "</label>");
             $("#wp-link .link-target").append('<br><label style="padding-left: 4px;"><span>&nbsp;</span><input type="checkbox" id="tanfl-add-sponsored">' + ' Add <code>rel="sponsored"</code> to link' + '</label>');
-            $("#wp-link .link-target").append('<br><label style="padding-left: 4px;"><span>&nbsp;</span><input type="checkbox" id="tanfl-add-retailer">' + ' Add retailer link tag' + '</label><br>');
+            $("#wp-link .link-target").append('<br><label style="padding-left: 4px;"><span>&nbsp;</span><input type="checkbox" id="tanfl-add-retailer">' + ' Don\'t process as an affiliate link' + '</label><br>');
             $(".wp-link-text-field").before('<div class="link-title-field"><label><span style="padding-left: 4px;">' + wpLinkL10n.labelTitle + '</span><input id="wp-link-title" type="text" name="linktitle" /></label></div>');
             $('<style type="text/css"> .has-text-field #wp-link .query-results { top: 256px !important; } #wp-link-wrap.search-panel-visible {height: 549px !important;}</style>').appendTo("head");
             //change by "Title and Nofollow for Links" end
